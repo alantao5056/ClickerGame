@@ -7,9 +7,11 @@ html {
 .stats {
   text-align: center;
 }
+
 #stats {
   padding-top: 10%;
 }
+
 #my-button {
   margin-left: 44%;
   margin-right: 50%;
@@ -22,6 +24,7 @@ html {
   /* padding-right: 20%; */
   /* left: 47%; */
 }
+
 #upgrades {
   text-align: center;
 }
